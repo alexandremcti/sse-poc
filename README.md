@@ -1,0 +1,1 @@
+Create a server that receives an data from client, persists in a file and returns data using server-sent-events 
